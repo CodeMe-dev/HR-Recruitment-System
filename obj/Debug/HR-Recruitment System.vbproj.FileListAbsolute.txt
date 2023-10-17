@@ -1,0 +1,13 @@
+F:\HR-Recruitment System\bin\Debug\HR-Recruitment System.exe.config
+F:\HR-Recruitment System\bin\Debug\HR-Recruitment System.exe
+F:\HR-Recruitment System\bin\Debug\HR-Recruitment System.pdb
+F:\HR-Recruitment System\bin\Debug\HR-Recruitment System.xml
+F:\HR-Recruitment System\obj\Debug\HR-Recruitment System.vbproj.AssemblyReference.cache
+F:\HR-Recruitment System\obj\Debug\HR_Recruitment_System.Form1.resources
+F:\HR-Recruitment System\obj\Debug\HR_Recruitment_System.Resources.resources
+F:\HR-Recruitment System\obj\Debug\HR-Recruitment System.vbproj.GenerateResource.cache
+F:\HR-Recruitment System\obj\Debug\HR-Recruitment System.vbproj.CoreCompileInputs.cache
+F:\HR-Recruitment System\obj\Debug\HR-Recruitment System.exe
+F:\HR-Recruitment System\obj\Debug\HR-Recruitment System.xml
+F:\HR-Recruitment System\obj\Debug\HR-Recruitment System.pdb
+F:\HR-Recruitment System\obj\Debug\HR_Recruitment_System.recruitmentStatus.resources
